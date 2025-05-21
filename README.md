@@ -1,10 +1,13 @@
 # 🧑‍💼 Employee Console App (Hibernate + MySQL)
 
-<h2>This is a **basic Java console application** which uses Hibernate Framework to store and retrieve data</h2>h2>:
+<h2>This is a **basic Java console application** which uses Hibernate Framework to store and retrieve data</h2>:
+<br>
+<li>
 ✅ Add Employee  
 👀 View Employee  
 ✏️ Update Employee  
 ❌ Delete Employee  
+</li>
 
 All operations are stored in a **MySQL database** using the **Hibernate ORM** framework.
 
